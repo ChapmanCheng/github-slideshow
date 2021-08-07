@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: slide.js
 title: "Welcome to our second slide!"
 ---
 Your text
